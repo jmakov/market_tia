@@ -1,0 +1,8 @@
+*.pyc
+/_misc
+/db
+/logs
+/virt
+/tmp
+/sim
+
